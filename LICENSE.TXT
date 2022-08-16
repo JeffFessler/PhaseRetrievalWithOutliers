@@ -1,0 +1,25 @@
+--------------------------- LICENSE.TXT ---------------------------
+Copyright 2014, 2015 Daniel Weller, Jeffrey Fessler, the University 
+of Virginia, and the University of Michigan. Portions of this code 
+make use of the Image Reconstruction Toolbox (IRT), distributed 
+separately, by Jeffrey Fessler at 
+
+http://web.eecs.umich.edu/~fessler/code/index.html,
+
+which is governed by its own license.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as 
+published by the Free Software Foundation, either version 3 of the 
+License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public 
+License along with this program (see GPL.TXT and LGPL.TXT).  
+If not, see <http://www.gnu.org/licenses/>.
+
+-------------------------------------------------------------------
