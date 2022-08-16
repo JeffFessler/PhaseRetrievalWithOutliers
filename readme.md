@@ -80,7 +80,7 @@ To generate figures, run in order:
 * `run_phase_retrieval_MC.m`
 * `run_sparse_fienup_MC.m`
 * `plot_phase_retrieval_MC.m`
-* `* `run_phase_retrieval_MC_noise.m` (with settings varying outliers)
+* `run_phase_retrieval_MC_noise.m` (with settings varying outliers)
 * `run_sparse_fienup_MC_noise.m` (with settings varying outliers)
 * `plot_phase_retrieval_MC_outliers.m`
 * `run_phase_retrieval_MC_noise.m` (with settings varying noise levels)
